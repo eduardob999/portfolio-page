@@ -13,43 +13,21 @@ function Hero() {
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
           >
-            Welcome to my Web <br /> Development Portofolio!
+            Eduardo Alfonso <br /> Bogado Rojas
           </Typography>
           <Typography
             variant="lead"
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
           >
-            I&apos;m Lily Smith, a passionate web developer based in USA. Here,
-            you&apos;ll get a glimpse of my journey in the world of web
-            development, where creativity meets functionality.
-          </Typography>
-          <div className="grid">
-            <Typography
-              variant="small"
-              className="mb-2 text-gray-900 font-medium"
-            >
-              Your email
-            </Typography>
-            <div className="mb-2 flex w-full flex-col gap-4 md:w-10/12 md:flex-row">
-              {/* @ts-ignore */}
-              <Input color="gray" label="Enter your email" size="lg" />
-              <Button color="gray" className="w-full px-4 md:w-[12rem]">
-                require offer
-              </Button>
-            </div>
-          </div>
-          <Typography variant="small" className="font-normal !text-gray-500">
-            Read my{" "}
-            <a href="#" className="font-medium underline transition-colors">
-              Terms and Conditions
-            </a>
+            Desarrollador de software y aplicaciones web. <br />
+            Investigador cientifico licenciado en química.
           </Typography>
         </div>
         <Image
           width={1024}
           height={1024}
-          alt="team work"
-          src="/image/image-7.svg"
+          alt="foto de perfil"
+          src="/image/cuadrada-editada.jpg"
           className="h-[36rem] w-full rounded-xl object-cover"
         />
       </div>

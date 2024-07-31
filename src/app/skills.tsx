@@ -55,18 +55,19 @@ export function Skills() {
     <section className="px-8">
       <div className="container mx-auto mb-20 text-center">
         <Typography color="blue-gray" className="mb-2 font-bold uppercase">
-          my skills
+          Mis habilidades
         </Typography>
         <Typography variant="h1" color="blue-gray" className="mb-4">
-          What I do
+          Qué hago?
         </Typography>
         <Typography
           variant="lead"
           className="mx-auto w-full !text-gray-500 lg:w-10/12"
         >
-          I&apos;m not just a developer; I&apos;m a digital dreamweaver.
-          Crafting immersive online experiences is not just a job but my
-          calling. Discover below how I can help you.
+          No soy solo un desarrollador, sino además un investigador activo, <br />
+          siempre en busca de nuevas tecnologías y metodologías para mejorar <br />
+          la calidad de mis proyectos. Aquí hay algunas de las habilidades que <br />
+          puedo aportar a tu próximo proyecto.
         </Typography>
       </div>
       <div className="container mx-auto grid grid-cols-1 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
